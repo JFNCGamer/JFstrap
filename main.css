@@ -1,5 +1,13 @@
-.container h1 {
+.container-right {
     color: grey;
     font-family: sans-serif;
     font-size:10mm;
+    text-align: right;
+}
+
+.container-left {
+    color: grey;
+    font-family: sans-serif;
+    font-size:10mm;
+    text-align: left;
 }
