@@ -6,6 +6,6 @@ To link the css library you will need to copy this and paste it somewhere in you
 
 Copy this:
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jfncgamer/jfstrap/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jfncgamer/jfstrap@latest/main.css">
 
 then you are done!
