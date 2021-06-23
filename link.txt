@@ -1,0 +1,3 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jfncgamer/jfstrap@latest/main.css">
+
+Copy this!
